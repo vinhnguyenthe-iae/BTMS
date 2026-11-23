@@ -1,0 +1,10 @@
+[DOCUMENT]
+TITLE: Shut down
+
+[REQUIREMENT]
+UID: REQ-3
+LEVEL: Functional
+TITLE: Shutdown Batery
+STATEMENT: >>>
+Execute function shutdown_battery_supply()
+<<<

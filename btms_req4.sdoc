@@ -1,0 +1,11 @@
+[DOCUMENT]
+TITLE: Cooldown
+UID: BTMS-REQ-004
+VERSION: 1.0
+
+[REQUIREMENT]
+UID: REQ-4
+LEVEL: Functional
+STATEMENT: >>>
+Execute cooldown_start()
+<<<
